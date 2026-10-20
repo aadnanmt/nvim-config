@@ -23,6 +23,7 @@ return {
         markdown = { "prettier" },
         yaml = { "prettier" },
         astro = { "prettier" },
+        toml = { "taplo" },
       },
       formatters = {
         shfmt = {
