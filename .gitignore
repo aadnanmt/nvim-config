@@ -1,4 +1,6 @@
 lazy-lock.json
+lazyvim.json
+.neoconf.json
 lazy/
 spell/
 undo/
